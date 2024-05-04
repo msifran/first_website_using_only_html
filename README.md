@@ -4,3 +4,7 @@
  Use of check box and radio button . 
 
   it is just a starting of  my journey , and i am always intrested in solving real world problems if you have one share with me ,we can soved it together 
+
+
+
+for the code of above questions go through the sql queries above or [click here](https://github.com/msifran/first_website_using_only_html )
