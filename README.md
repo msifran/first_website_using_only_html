@@ -3,4 +3,4 @@
  In form tag I used simple text wich helps me to get some information about user or i can ask so many question with it.
  Use of check box and radio button . 
 
-  it is just a starting of  my journey , and i am always intrested in solving real worl problem if you have one share with me we can soved it together 
+  it is just a starting of  my journey , and i am always intrested in solving real world problems if you have one share with me ,we can soved it together 
