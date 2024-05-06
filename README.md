@@ -5,7 +5,7 @@
 
 As a beginner in web development, diving into HTML was both challenging and rewarding. From structuring the layout to adding content and styling elements, every step taught me valuable lessons and helped me understand the fundamentals of web development.
 
-# # Note : 
+#  Note : 
 My website may be simple, but it's a testament to my passion for learning and my commitment to mastering the basics before moving on to more complex technologies. I'm proud of what I've accomplished and eager to continue honing my skills.
 
 
